@@ -13,12 +13,11 @@ printf("infinite loop in comin:\n");
 
 i = 0;
 
-/*
-* while (i<10)
-* f
-* putchar(i)
-*}
-*/
+while (i<10)
+  {
+putchar(i)
+  }
+
 printf(infinite loop avoided!\\o/\n");
 
 return 0;

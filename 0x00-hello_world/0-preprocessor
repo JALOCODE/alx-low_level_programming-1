@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E $MYFILE -O c\n
+echo gcc -E $CFILE -o c

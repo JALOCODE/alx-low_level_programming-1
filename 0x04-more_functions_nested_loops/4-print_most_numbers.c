@@ -3,11 +3,12 @@
 
 /**
 * print_most_number - prints numbers except 2 and 4
+* Description: prints the numbers 0 -9, followed by a new line
 *
 * Return: returns nothing
 */
 
-void print_most_numbers(void)
+void4 print_most_numbers(void)
 {
 int n;
 

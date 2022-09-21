@@ -4,18 +4,17 @@
 /**
 *print_numbers - function that prints all numbers
 *from 0 - 9
-
 *
 *Return: return nothing
 */
 
 void print_numbers(void)
 {
-         int n;
+int n;
 
-         for (n = 48; n < 58; n++)
-         {
-             putchar(n);
-         }
-         putchar(10);
+for (n = 48; n < 58; n++)
+{
+putchar(n);
+}
+putchar(10);
 }

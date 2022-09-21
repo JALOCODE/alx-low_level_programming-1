@@ -3,7 +3,7 @@
 
 /**
 * print_most_number - prints numbers except 2 and 4
-* Description: prints the numbers 0 -9, followed by a new line
+* print_most_numbers - prints the numbers 0 -9, followed by a new line
 *
 * Return: returns nothing
 */
